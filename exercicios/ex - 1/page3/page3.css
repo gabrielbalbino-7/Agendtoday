@@ -1,0 +1,18 @@
+img {
+    max-width:18%; 
+    max-height: auto; 
+  }
+  
+  a {
+    position:relative; /* Make the link absolutely positioned */
+    top: 250px; /* Move the link 20 pixels from the top */
+    left: 600px; /* Move the link 50 pixels from the left */
+  }
+  
+
+  body {
+    background-image: url(/img/05dc653820232a78fe68a4d85508d293.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  

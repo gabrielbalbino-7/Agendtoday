@@ -1,0 +1,16 @@
+img {
+    max-width:18%; /* Define a largura máxima da imagem para 50% do tamanho do contêiner */
+    max-height: auto; /* A altura será ajustada automaticamente para manter a proporção */
+  }
+  
+  a {
+    position: absolute; /* Make the link absolutely positioned */
+    top: 500px; /* Move the link 20 pixels from the top */
+    left: 150px; /* Move the link 50 pixels from the left */
+  }
+  
+  body {
+    background-image: url(/img/05dc653820232a78fe68a4d85508d293.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

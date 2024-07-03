@@ -1,0 +1,18 @@
+.nav {
+    background-color: rgb(29, 55, 141);
+    list-style-type: none;
+}
+
+.logo {
+    width: 30%;
+    height: 10%;
+}
+
+body {
+    background-color: rgb(57, 57, 211);
+    color:#F2B705;
+}
+
+a {
+    color: #F2B705;
+}

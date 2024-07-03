@@ -1,0 +1,233 @@
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#container0 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#container1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+#container1 h1 {
+    margin-top: 0.5em;
+}
+
+#cariri {
+    border-radius: 50%;
+}
+
+#logo {
+    width: 10em;
+    margin-left: 1em;
+
+}
+
+#cabeçalho {
+    justify-content: flex-start;
+    background-color: #3A3A6C;
+    color: #fff;
+    padding: 20px 0;
+
+
+}
+
+#container2 {
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+}
+
+.serviços {
+    text-align: center;
+    margin: 2em;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+    width: 12.5em;
+    height: 15.5em;
+  }
+  
+ 
+  
+
+.serviços :hover {
+    zoom: 104%;
+}
+
+#container3 {
+    
+}
+
+.fotos_serv {
+    margin-top: 1em;
+
+}
+
+
+
+#container4 {
+}
+
+.fotos_pro {
+    border-radius: 50%;
+    width: 8em;
+    margin-top: 1em;
+}
+
+.fotos :hover {
+    
+}
+
+.bio {
+    font-size: 18px;
+}
+
+.profissionais {
+    text-align: center;
+    margin: 2em;
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 15.6em;
+    height: 16.5em;
+}
+
+.profissionais h4 {
+    font-size: 0px;
+}
+
+.profissionais :hover {
+    zoom: 105%;
+}
+
+
+#container5 {
+
+    text-align: center;
+    margin: 2em;
+
+}
+
+#container6 {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#submit {
+
+    text-align: center;
+    margin: 2.5em;
+    border-radius: 15px;
+    width: 5.9em;
+    height: 2.6em;
+    border: transparent;
+    text-transform:uppercase;
+    background-color:#2F3FCA;
+    color:#ffffff;
+}
+
+#submit :hover {
+
+    background-color:#ACC8FF;
+    color:#3A3A6C
+
+}
+
+.titulos {
+    text-align: center;
+}
+
+#footer {
+    justify-content: flex-start;
+    background-color: #3A3A6C;
+    color: #fff;
+    padding: 20px 0;
+}
+
+#footer p {
+    padding: 0.5em;
+    margin-left: 1em;
+}
+
+.subcontainer {
+    display: flex;
+
+}
+
+
+
+.data {
+    text-align: center;
+    margin: 2.5em;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+    width: 5.9em;
+    height: 2.6em;
+}
+
+.data p {
+    margin-top: 0.5em;
+    font-weight: bold;
+    font-size:larger;
+}
+
+.data :hover {
+    zoom: 110%;
+}
+
+.data :visited {
+    background-color: red;
+}
+
+div :hover {
+    background-color: #ACC8FF;
+    color: #2F3FCA;
+    
+}
+
+div :active {
+    background-color: #3A3A6C;
+    color: #ACC8FF;
+}
+
+
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+
